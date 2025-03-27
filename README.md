@@ -35,6 +35,15 @@ I risultati saranno salvati in un file `risultati_quiz.txt` nella directory corr
 - `risultati_quiz.txt` — dove vengono registrati i risultati dei partecipanti
 - `README.md` — questo file
 
+
+dapp-quiz-cli/
+├── index.js                # Script principale del quiz
+├── risultati_quiz.txt      # File di log dei risultati
+├── README.md               # Istruzioni e guida
+├── package.json            # Configurazione progetto Node.js
+├── LICENSE                 #licenza
+├── .gitignore            
+
 ## 📌 Note
 - Pensato per studenti, sviluppatori e appassionati di blockchain.
 - Può essere esteso con interfaccia web, connessione a database o integrazione con wallet.
